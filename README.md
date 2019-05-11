@@ -1,5 +1,6 @@
-# React Webpack Typescript Starter
-> Minimal starter with hot module replacement (HMR) for rapid development.
+
+# videoplayer
+Ad serving videoplayer
 
 * **[React](https://facebook.github.io/react/)** (16.x)
 * **[Webpack](https://webpack.js.org/)** (4.x)
@@ -46,7 +47,3 @@ Command | Description
 `yarn run start` | (alias of `yarn run start-dev`)
 
 **Note**: replace `yarn` with `npm` if you use npm.
-
-## See also
-* [React Webpack Babel Starter](https://github.com/vikpe/react-webpack-babel-starter)
-* [Isomorphic Webapp Starter](https://github.com/vikpe/isomorphic-webapp-starter)
